@@ -1,6 +1,12 @@
 body {
     background-color: rgb(97, 97, 97);
 }
+header{
+    background-color: rgb(153, 0, 51 );
+}
+footer{
+    background-color: rgb(153, 0, 51 );
+}
 #logo{
     width: 50px;
 }
@@ -13,7 +19,7 @@ h2 {
 }
 
 #imagen_personal {
-    box-shadow: 10px 10px 3px rgb(255, 51, 51)
+    box-shadow: 10px 10px 3px rgb(153, 0, 51)
 }
 h3{
     color: rgb(255, 215, 0);
