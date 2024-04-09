@@ -1,7 +1,9 @@
 body {
     background-color: rgb(97, 97, 97);
 }
-
+#logo{
+    width: 50px;
+}
 h1 {
     text-align: center;
 }
@@ -15,4 +17,10 @@ h2 {
 }
 h3{
     color: rgb(255, 215, 0);
+}
+footer{
+    align-items: center;
+}
+footer img{
+    width: 50px;
 }
